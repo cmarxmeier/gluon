@@ -100,6 +100,10 @@ device('netgear-wac104', 'netgear_wac104', {
 	factory_ext = '.img',
 })
 
+device('netgear-wac124', 'netgear_wac124', {
+        factory_ext = '.img',
+})
+
 device('netgear-wax202', 'netgear_wax202', {
 	factory_ext = '.img',
 })
